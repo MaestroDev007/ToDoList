@@ -1,2 +1,2 @@
 # ToDoList
-MY first pushed project to help m eunderstand concepts in react
+MY first pushed project to help understand concepts in react
